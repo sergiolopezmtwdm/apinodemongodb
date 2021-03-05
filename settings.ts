@@ -4,10 +4,10 @@ export default{
         port:3001
     },
     mongodb:{
-        host:'localhost',
+        host:'172.17.0.4',
         port:'27017',        
-        userName:'',
-        password:''
+        userName:'dba-root',
+        password:'mongoadmin'
 
     }
 }
