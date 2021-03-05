@@ -1,7 +1,7 @@
 export default{
     api:{
         enviroment:'DEV',//DEV| QA | PROD
-        port:3001
+        port:3000
     },
     mongodb:{
         host:'172.17.0.4',
