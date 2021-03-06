@@ -8,6 +8,5 @@ export default{
         port:'27017',        
         userName:'dba-root',
         password:'mongoadmin'
-
     }
 }
